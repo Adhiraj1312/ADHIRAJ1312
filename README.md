@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-AdhirajSingh-red)](https://https://www.youtube.com/channel/UC3PbO-IWRw251_rR6KQwk8A)
 [![Linkedin Badge](https://img.shields.io/badge/-Adhiraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/adhiraj-singh-21a95622a/)](https://https://www.linkedin.com/in/adhiraj-singh-21a95622a/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]
+[![Website Badge](https://img.shields.io/badge/WebSite-Adhiraj-green)]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Adhiraj-yellow)](https://stackoverflow.com/users/19652123/adhiraj-singh)
 
 I'm
